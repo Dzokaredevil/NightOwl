@@ -1,0 +1,58 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: E074-0DE3
+
+ Содержимое папки C:\Users\Public\Documents\Unity Projects\Nmm\Assets\my\audio
+
+02.04.2017  10:07    <DIR>          .
+02.04.2017  10:07    <DIR>          ..
+02.04.2017  08:13         3 631 133 1. main theme - Get Lucky (8 bit ).wav
+02.04.2017  08:24               463 1. main theme - Get Lucky (8 bit ).wav.meta
+02.04.2017  08:13           417 418 10. tummy growling.wav
+02.04.2017  08:25               463 10. tummy growling.wav.meta
+02.04.2017  08:13           116 842 11. flying.wav
+02.04.2017  08:25               463 11. flying.wav.meta
+02.04.2017  08:13           977 706 12. heavy breathing.wav
+02.04.2017  08:25               463 12. heavy breathing.wav.meta
+02.04.2017  08:13            54 691 13. win 1.mp3
+02.04.2017  08:24               463 13. win 1.mp3.meta
+02.04.2017  08:13           408 962 13. win 2.wav
+02.04.2017  08:25               463 13. win 2.wav.meta
+02.04.2017  08:13        25 991 836 13. win 3 (epic sax guy).wav
+02.04.2017  08:25               463 13. win 3 (epic sax guy).wav.meta
+02.04.2017  08:13         5 190 696 13. win 4 (rick astley).wav
+02.04.2017  08:25               463 13. win 4 (rick astley).wav.meta
+02.04.2017  08:13           702 058 14. alarm.wav
+02.04.2017  08:25               463 14. alarm.wav.meta
+02.04.2017  08:13           419 656 15. lose 1 (windows exit).wav
+02.04.2017  08:25               463 15. lose 1 (windows exit).wav.meta
+02.04.2017  08:13           589 248 15. lose 2 (hello darkness).wav
+02.04.2017  08:24               463 15. lose 2 (hello darkness).wav.meta
+02.04.2017  08:13             9 996 16. egg (easter icq).wav
+02.04.2017  08:24               463 16. egg (easter icq).wav.meta
+02.04.2017  08:13           577 344 17. windows 98 loading.wav
+02.04.2017  08:25               463 17. windows 98 loading.wav.meta
+02.04.2017  08:13         4 387 254 2. menu theme - Kavinsky - Nightcall (Scattle 8-bit Cover).wav
+02.04.2017  08:24               463 2. menu theme - Kavinsky - Nightcall (Scattle 8-bit Cover).wav.meta
+02.04.2017  08:13            65 562 3. click menu.wav
+02.04.2017  08:24               463 3. click menu.wav.meta
+02.04.2017  08:13            39 494 3. select menu.wav
+02.04.2017  08:25               463 3. select menu.wav.meta
+02.04.2017  08:13            51 188 4. tree bump 1.wav
+02.04.2017  08:24               463 4. tree bump 1.wav.meta
+02.04.2017  08:13            88 672 4. tree bump 2.wav
+02.04.2017  08:24               463 4. tree bump 2.wav.meta
+02.04.2017  08:13           181 306 6. owl 1.wav
+02.04.2017  08:25               463 6. owl 1.wav.meta
+02.04.2017  08:13           162 242 6. owl 2.wav
+02.04.2017  08:25               463 6. owl 2.wav.meta
+02.04.2017  08:13           158 716 7. kaspersky.wav
+02.04.2017  08:24               463 7. kaspersky.wav.meta
+02.04.2017  08:13            22 974 8. computer mouse 2.wav
+02.04.2017  08:25               463 8. computer mouse 2.wav.meta
+02.04.2017  08:13            31 754 8. mouse 1.wav
+02.04.2017  08:24               463 8. mouse 1.wav.meta
+02.04.2017  08:13            81 206 9. egg.wav
+02.04.2017  08:24               463 9. egg.wav.meta
+02.04.2017  10:07                 0 text.txt
+              49 файлов     44 369 066 байт
+               2 папок  721 669 480 448 байт свободно
